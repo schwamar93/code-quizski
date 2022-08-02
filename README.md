@@ -1,5 +1,10 @@
 # code-quizski
 
+For this challenge I was tasked with building a coding quiz with questions relating to javaScript, where the user is penalized time for incorrect answers and able to save their high score at the end. From the highscore page, the user is able to return to the main page and try the quiz again or clear highscores. 
+
+Link to deployed site: 
+https://schwamar93.github.io/code-quizski/
+
 Screenshots of finished site:
 
 <img width="1172" alt="Screen Shot 2022-08-02 at 10 58 48 AM" src="https://user-images.githubusercontent.com/98289954/182442941-fd6e0ede-7d33-4f99-b9c2-b5948e4823d3.png">
