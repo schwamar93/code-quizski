@@ -20,7 +20,7 @@
     float: right;
 }
 #goBack {
-    background-color: tan;
+    background-color: rgb(211, 200, 184);
     margin-left: 33%;
     padding: 20px 30px;
     font-size: 24px;
@@ -56,7 +56,7 @@ label {
 input {
     margin-bottom: 20px;
     width: 50%;
-    border: 1px solid blanchedalmond;
+    border: 1px solid rgb(211, 200, 184);
 }
 h1 {
     text-align: center;
@@ -73,7 +73,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     }
 li {
-    background-color: blanchedalmond;
+    background-color: rgb(211, 200, 184);
     border-radius: 50px;
     list-style-type: none;
     margin-top: 10px;
